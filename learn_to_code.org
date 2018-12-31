@@ -1,0 +1,36 @@
+# -*- mode: org; fill-column: 79; -*-
+
+#+TITLE: Learn To Code In 2019, Get Hired, And Have Fun Along The Way
+#+AUTHOR: Andrei Neagoie
+#+DATE: December 4, 2018
+
+
+
+* Body
+
+** Introduction
+
+   \index{about} Last year, I wrote a post that went viral which gave you step
+   by step instructions on how to become a web developer from scratch and for
+   free. A lot has changed since then, and since I’m a proponent of not wasting
+   time, I wanted to share with you the updated article because there is a ton
+   of changes for 2019! The focus is on efficiency: Learn the right topics that
+   are in demand right now so you can get hired as soon as possible.
+
+* Appendices
+  \appendix
+
+** Indices
+
+*** Index
+    \printindex
+
+* Export Settings                                                  :noexport:
+#+LATEX_CLASS: report
+#+LATEX_CLASS_OPTIONS:
+#+LATEX_HEADER: \usepackage{makeidx}
+#+LATEX_HEADER: \usepackage{showidx}
+#+LATEX_HEADER_EXTRA: \makeindex
+#+DESCRIPTION: How To Be a Web Developer in 2019
+#+KEYWORDS: webdev "web developer"
+
